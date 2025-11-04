@@ -1,0 +1,12 @@
+.task-list-container {
+  max-width: 600px;
+  margin-bottom: 30px;
+  align: center;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+  align: center;
+  margin:50 px;
+}
